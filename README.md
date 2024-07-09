@@ -51,9 +51,6 @@ My vision is to merge research, education, and innovation to create positive imp
 - USM University
 - FAQ Summary
 
-## Projects
-- Darkelf Browser
-
 ## FIS Badge
 https://www.credly.com/badges/c267d873-79ef-4e05-9389-643b15ae2482/embedded
 
