@@ -30,7 +30,12 @@ Educational Consultation: Prepare for college admissions and exams like IELTS an
 
 ## Affiliations
 
-I am affiliated with organizations like DocMatter, the Endocrine Society, IACA (International Association of Crime Analysts), and ICOS (International Council of Onomastic Science).
+I am affiliated with organizations:
+
+- DocMatter
+- Endocrine Society
+- IACA (International Association of Crime Analysts)
+- ICOS (International Council of Onomastic Science).
 
 ## Vision
 
