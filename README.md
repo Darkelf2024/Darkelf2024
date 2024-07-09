@@ -35,7 +35,7 @@ I am affiliated with organizations:
 - DocMatter
 - Endocrine Society
 - IACA (International Association of Crime Analysts)
-- ICOS (International Council of Onomastic Science).
+- ICOS (International Council of Onomastic Science)
 
 ## Vision
 
