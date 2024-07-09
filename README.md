@@ -49,10 +49,10 @@ My vision is to merge research, education, and innovation to create positive imp
 
 ## Info
 
-- ManchesterCF
-- EGS University
-- USM University
-- FAQ Summary
+- [ManchesterCF](https://www.manchestercf.com/fis-7/)
+- [EGS University](https://www.egs.edu.eu/)
+- [USM University](https://www.usm.my/)
+
 
 ## FIS Badge
 [FIS BADGE](https://www.credly.com/badges/c267d873-79ef-4e05-9389-643b15ae2482/embedded)
