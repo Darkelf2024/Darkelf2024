@@ -31,7 +31,8 @@ Educational Consultation: Prepare for college admissions and exams like IELTS an
 ## Affiliations
 
 I am affiliated with organizations like DocMatter, the Endocrine Society, IACA (International Association of Crime Analysts), and ICOS (International Council of Onomastic Science).
-Vision
+
+## Vision
 
 My vision is to merge research, education, and innovation to create positive impacts on global healthcare and education outcomes.
 
