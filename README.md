@@ -2,7 +2,7 @@
 
 ## Consultant • Educator • Researcher
 
-## Web Tech
+## Web Tech 
 <div style="display: flex;">
 
 <div style="display:flex; align-items:center;">
@@ -10,6 +10,9 @@
     <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" style="width:67px; height:48px; margin-right:10px;">
     <img src="https://pypi.org/static/images/white-cube.2351a86c.svg" width="67" height="48" alt="Cube Logo">
 </div>
+
+## Special Projects
+- [Darkelf Browser](https://github.com/Darkelf2024/Darkelf-Browser/blob/main/README.md)
 
 ## Professional Profile
 
@@ -52,7 +55,7 @@ My vision is to merge research, education, and innovation to create positive imp
 - FAQ Summary
 
 ## FIS Badge
-https://www.credly.com/badges/c267d873-79ef-4e05-9389-643b15ae2482/embedded
+[FIS BADGE](https://www.credly.com/badges/c267d873-79ef-4e05-9389-643b15ae2482/embedded)
 
 ## Contact
 Email: kjm489@km-consultant.pro
