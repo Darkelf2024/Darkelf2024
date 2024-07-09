@@ -56,9 +56,11 @@ My vision is to merge research, education, and innovation to create positive imp
 
 ## FIS Badge
 [FIS BADGE](https://www.credly.com/badges/c267d873-79ef-4e05-9389-643b15ae2482/embedded)
+The Financial Intelligence Specialist (FIS) designation provides an online qualification for anti-money laundering and anti-terrorist financing compliance professionals.The designation is provided jointly by ManchesterCF and the University of NewHaven, Connecticut.
 
 ## Contact
 Email: kjm489@km-consultant.pro
+Website:[Dr. Kevin Moore](https://km-consultant.pro/)
 
 Reach out to me via email or connect with me on professional networks
 
