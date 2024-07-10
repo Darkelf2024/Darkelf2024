@@ -21,7 +21,8 @@ I am Dr. Kevin Moore, dedicated to leveraging education, research, and innovatio
 ## Biography
 
 With a PhD in Education and a Minor in TESOL, I am a dedicated Medical Researcher specializing in healthcare and education. My work focuses on enhancing medical knowledge and educational practices for the betterment of communities. Passionate about healthcare, education, and research, my aim is to bridge these domains and enhance learning and health outcomes worldwide. Through the integration of research, education, and innovation, I strive to drive meaningful improvements in healthcare and education. Certified by ManchesterCF and the University of New Haven, Connecticut, I am committed to leveraging my expertise to affect positive change on a global scale.
-Services
+
+## Services
 
 Financial Data Analysis: Analyzing financial data, generating reports, and implementing risk management strategies.
 Research Services: Utilizing Open Source Intelligence (OSINT) for insights in linguistics, oncology, and strategic medical partnerships.
