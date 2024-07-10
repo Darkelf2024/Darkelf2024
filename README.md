@@ -24,10 +24,10 @@ With a PhD in Education and a Minor in TESOL, I am a dedicated Medical Researche
 
 ## Services
 
-Financial Data Analysis: Analyzing financial data, generating reports, and implementing risk management strategies.
-Research Services: Utilizing Open Source Intelligence (OSINT) for insights in linguistics, oncology, and strategic medical partnerships.
-Writing Services: Crafting attention-grabbing resumes, powerful reference letters, and impeccable thesis/dissertations.
-Educational Consultation: Prepare for college admissions and exams like IELTS and OET, certified in OET Knowledge.
+- Financial Data Analysis: Analyzing financial data, generating reports, and implementing risk management strategies.
+- Research Services: Utilizing Open Source Intelligence (OSINT) for insights in linguistics, oncology, and strategic medical partnerships.
+- Writing Services: Crafting attention-grabbing resumes, powerful reference letters, and impeccable thesis/dissertations.
+- Educational Consultation: Prepare for college admissions and exams like IELTS and OET, certified in OET Knowledge.
 
 ## Affiliations
 
