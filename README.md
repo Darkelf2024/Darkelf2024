@@ -67,8 +67,8 @@ My vision is to merge research, education, and innovation to create positive imp
 The Financial Intelligence Specialist (FIS) designation provides an online qualification for anti-money laundering and anti-terrorist financing compliance professionals.The designation is provided jointly by ManchesterCF and the University of NewHaven, Connecticut.
 
 ## Contact
-Email: kjm489@km-consultant.pro
-Website: [Dr. Kevin Moore](https://km-consultant.pro/)
+- Email: kjm489@km-consultant.pro
+- Website: [Dr. Kevin Moore](https://km-consultant.pro/)
 
 Reach out to me via email or connect with me on professional networks
 
