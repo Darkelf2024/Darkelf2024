@@ -1,6 +1,6 @@
 # Dr. Kevin Moore
 
-- Consultant • Educator • Researcher
+Consultant • Educator • Researcher
 
 ## Web Tech 
 <div style="display: flex;">
