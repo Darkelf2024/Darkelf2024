@@ -14,6 +14,7 @@ Consultant • Educator • Researcher
 ## Special Projects
 - [Darkelf Browser](https://github.com/Darkelf2024/Darkelf-Browser/blob/main/README.md)
 - [Profile-Resume](https://km-consultant.pro/)
+- muOS Testing Team
 
 ## Professional Profile
 
