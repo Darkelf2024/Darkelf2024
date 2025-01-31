@@ -18,7 +18,7 @@ Consultant • Educator • Researcher
 
 ## Professional Profile
 
-I am Dr. Kevin Moore, dedicated to leveraging education, research, and innovation to foster global advancements in healthcare and education.
+I am Dr. Kevin Moore, dedicated to leveraging education, research, and innovation to foster global advancements in healthcare and education. As an autodidact, I have independently learned Python coding, further enhancing my ability to develop innovative solutions in these fields.
 
 ## Biography
 
