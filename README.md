@@ -7,7 +7,10 @@ Consultant • Educator • Researcher
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Encryption](https://img.shields.io/badge/Encryption-%23008C45.svg?style=for-the-badge&logo=lock&logoColor=white)
+![Encryption](https://img.shields.io/badge/Encryption-%23008C45.svg?style=for-the-badge&logo=lock&logoColor=white)  
+![Crypto](https://img.shields.io/badge/Crypto-%230A0A0A.svg?style=for-the-badge&logo=bitcoin&logoColor=white)  
+![PyCryptodome](https://img.shields.io/badge/PyCryptodome-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Cryptography](https://img.shields.io/badge/Cryptography-%234B8BBE.svg?style=for-the-badge&logo=lock&logoColor=white)  
 
 ## Special Projects
 - [Darkelf Browser](https://github.com/Darkelf2024/Darkelf-Browser/blob/main/README.md)
