@@ -3,28 +3,7 @@
 Consultant • Educator • Researcher
 
 ## Web Tech 
-<svg width="360" height="120" viewBox="0 0 360 120" xmlns="http://www.w3.org/2000/svg">
-    <!-- HTML5 Logo -->
-    <polygon fill="#E44D26" points="10,10 110,10 100,100 60,110 20,100"/>
-    <polygon fill="#F16529" points="60,105 90,95 98,20 60,20"/>
-    <polygon fill="white" points="45,35 75,35 74,45 55,45 56,55 73,55 71,75 60,78 49,75 48,65 57,65 58,70 64,70 65,60 45,60"/>
-    
-    <!-- Python Logo -->
-    <g transform="translate(120,0)">
-        <rect width="120" height="120" rx="20" fill="#306998"/>
-        <circle cx="40" cy="40" r="10" fill="white"/>
-        <circle cx="80" cy="80" r="10" fill="yellow"/>
-        <path d="M30 40 C30 20, 90 20, 90 40 V60 H60 V50 H40 Z" fill="yellow"/>
-        <path d="M90 80 C90 100, 30 100, 30 80 V60 H60 V70 H80 Z" fill="white"/>
-    </g>
-    
-    <!-- Cube Logo -->
-    <g transform="translate(240,0)">
-        <polygon points="30,40 60,20 90,40 60,60" fill="#CCCCCC" stroke="black"/>
-        <polygon points="30,40 30,80 60,100 60,60" fill="#AAAAAA" stroke="black"/>
-        <polygon points="60,60 60,100 90,80 90,40" fill="#888888" stroke="black"/>
-    </g>
-</svg>
+
 
 ## Special Projects
 - [Darkelf Browser](https://github.com/Darkelf2024/Darkelf-Browser/blob/main/README.md)
