@@ -1,81 +1,152 @@
-# Dr. Kevin Moore
+# 🕶️ Dr. Kevin Moore  
+**Creator & Lead Developer of the Darkelf Browser Project**  
+*Educator • Researcher • Developer*  
 
-Consultant • Educator • Researcher
+> *"Code in shadows, browse in light — privacy begins with design."*  
 
-## Tech Stack
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Encryption](https://img.shields.io/badge/Encryption-%23008C45.svg?style=for-the-badge&logo=lock&logoColor=white)  
-![Crypto](https://img.shields.io/badge/Crypto-%230A0A0A.svg?style=for-the-badge&logo=bitcoin&logoColor=white)  
-![PyCryptodome](https://img.shields.io/badge/PyCryptodome-%23007ACC.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Cryptography](https://img.shields.io/badge/Cryptography-%234B8BBE.svg?style=for-the-badge&logo=lock&logoColor=white)  
+## 🌐 About the Darkelf Project
 
-## Special Projects
-- [Darkelf Browser](https://github.com/Darkelf2024/Darkelf-Browser/blob/main/README.md)
-- [Profile-Resume](https://km-consultant.pro/)
-- muOS Testing Team
+The **Darkelf Browser** ecosystem is a suite of privacy-focused macOS browsers engineered using **Python**, **Cocoa**, and **WebKit** — built entirely by **Dr. Kevin Moore**.  
 
-## Professional Profile
+Each variant of Darkelf is designed around the principle of **native privacy** — combining minimal UI design, cryptographic integrity, and system-level control to deliver a truly secure browsing experience.
 
-I am Dr. Kevin Moore, dedicated to leveraging education, research, and innovation to foster global advancements in healthcare and education. As an autodidact, I have independently learned Python coding, further enhancing my ability to develop innovative solutions in these fields.
+---
 
-## Biography
+## 🧩 Darkelf Variants
 
-With a PhD in Education and a Minor in TESOL, I am a dedicated Medical Researcher specializing in healthcare and education. My work focuses on enhancing medical knowledge and educational practices for the betterment of communities. Passionate about healthcare, education, and research, my aim is to bridge these domains and enhance learning and health outcomes worldwide. Through the integration of research, education, and innovation, I strive to drive meaningful improvements in healthcare and education. Certified by ManchesterCF and the University of New Haven, Connecticut, I am committed to leveraging my expertise to affect positive change on a global scale.
+### 🧠 **Darkelf Cocoa**
+A native macOS browser written in **Python (PyObjC)**.  
+Combines native Cocoa design with **post-quantum x25519MLKEM768 cryptography** and **Tor support**.
 
-## Services
+**Features**
+- 🧩 Fully native Cocoa UI  
+- 🔒 Tor Mode with DDG Lite + Onion Lite  
+- ✕ Tab close buttons and dynamic tab layouts  
+- 🧹 Secure “Clear Data” with animated prompts  
+- 🧠 Fingerprint-resistant sandboxing  
 
-- Financial Data Analysis: Analyzing financial data, generating reports, and implementing risk management strategies.
-- Research Services: Utilizing Open Source Intelligence (OSINT) for insights in linguistics, oncology, and strategic medical partnerships.
-- Writing Services: Crafting attention-grabbing resumes, powerful reference letters, and impeccable thesis/dissertations.
-- Educational Consultation: Prepare for college admissions and exams like IELTS and OET, certified in OET Knowledge.
+📘 [View on GitHub →](https://github.com/Darkelf2024/Darkelf-Browser)
 
-## Affiliations
+---
 
-I am affiliated with organizations:
+### 🕳️ **Darkelf Onion**
+Advanced variant with integrated **Tor routing** and **.onion access**.  
+Automatically switches between secure DDG endpoints based on Tor status.  
 
-- DocMatter
-- Endocrine Society
-- IACA (International Association of Crime Analysts)
-- ICAC (Internet Crimes Against Children)
-- ICOS (International Council of Onomastic Science)
+**Core Capabilities**
+- Smart detection of Tor proxy  
+- SOCKS5 routing with session isolation  
+- Onion/DuckDuckGo Lite hybrid system  
+- Encrypted state persistence  
 
-## Vision
+---
 
-My vision is to merge research, education, and innovation to create positive impacts on global healthcare and education outcomes.
+### 🔐 **Darkelf Quantum**
+The upcoming generation of Darkelf — built for **quantum-safe encryption** and **cross-platform portability**.  
 
-## Skills
+**Next-gen Technology**
+- Quantum-resistant encryption via **x25519MLKEM768**  
+- Memory-safe sandboxing layers  
+- Hybrid TLS and future-proof PQC core  
+- Modular codebase for upcoming Linux support  
 
-- Data Analysis
-- Research Methodology
-- Multilingual Communication
-- Critical Thinking
-- Teaching and Training
-- Cross-Cultural Competence
-- Intelligence Analysis
-- Medical Terminology
-- Financial Modeling
+🧪 *Currently under internal development — release expected Q1 2026.*
 
-## Info
+---
 
-- [ManchesterCF](https://www.manchestercf.com/fis-7/)
-- [EGS University](https://www.egs.edu.eu/)
-- [USM University](https://www.usm.my/)
+## ⚙️ Core Stack
 
+| Component | Technology |
+|------------|-------------|
+| Language | Python 3 + PyObjC |
+| UI Layer | Cocoa / AppKit |
+| Web Engine | WKWebView (WebKit) |
+| Cryptography | x25519MLKEM768 / PyCryptodome |
+| Privacy | Tor, Onion, Isolated Web Storage |
 
-## FIS Badge
-[FIS BADGE](https://www.credly.com/badges/c267d873-79ef-4e05-9389-643b15ae2482/embedded)
-The Financial Intelligence Specialist (FIS) designation provides an online qualification for anti-money laundering and anti-terrorist financing compliance professionals.The designation is provided jointly by ManchesterCF and the University of NewHaven, Connecticut.
+---
 
-## Contact
-- Email: kjm489@km-consultant.pro
-- Website: [Dr. Kevin Moore](https://km-consultant.pro/)
+## 🔒 Security Architecture
 
-Reach out to me via email or connect with me on professional networks
+Darkelf integrates **post-quantum encryption** through the **x25519MLKEM768** cryptographic layer, enabling:
+- Hybrid key exchange  
+- Quantum-safe encryption  
+- Forward secrecy across tabs  
+- macOS Secure Enclave compatibility  
 
-<!---
-Darkelf2024/Darkelf2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Security isn’t optional — it’s embedded into every part of the architecture.
+
+---
+
+## 🧹 Data Purge & Transparency
+
+**One-click Clear Data**  
+Securely removes all cache, cookies, local storage, and IndexedDB traces.  
+
+Dual Cocoa alerts provide **confirmation** and **completion** — making privacy actions visual, elegant, and reliable.
+
+---
+
+## 🎨 Design Philosophy
+
+> *"If privacy isn’t beautiful, it won’t be used."*
+
+Darkelf’s design philosophy merges **macOS-native visuals** with **zero-distraction interfaces**.  
+Every pixel serves function — every feature respects privacy.
+
+---
+
+## 🧱 Architecture Overview
+
+```
+Darkelf Framework
+│
+├── CocoaUI        # Native AppKit interface
+│   ├── Tab Manager / Toolbar
+│   └── Data Wipe Dialogs
+│
+├── WebCore        # WKWebView privacy sandbox
+│   ├── JS & Cookie Restrictions
+│   └── Isolated Sessions
+│
+├── CryptoLayer    # x25519MLKEM768 Integration
+│   ├── PQ-safe Key Management
+│   └── Secure Memory Allocation
+│
+└── TorBridge      # Tor and Onion Routing Layer
+    ├── Proxy Detection
+    └── Route Switching
+```
+
+---
+
+## 💡 Mission Statement
+
+> *“To restore privacy to the user — through transparency, simplicity, and open-source design.”*  
+
+The **Darkelf Project** is a research-driven, open-source effort to develop **ethical, privacy-first browsers** for modern users.  
+Each release brings Darkelf closer to becoming the **standard for secure macOS browsing**.
+
+---
+
+## 🧠 Developed & Maintained By
+
+**Dr. Kevin Moore**  
+Educator • Researcher • Developer  
+Creator of the Darkelf Browser Ecosystem  
+
+🌐 [darkelfbrowser.com](https://darkelfbrowser.com)  
+💻 [GitHub: Darkelf2024](https://github.com/Darkelf2024)  
+📧 [kjm489@km-consultant.pro](mailto:kjm489@km-consultant.pro)
+
+---
+
+## ⚖️ License
+
+All Darkelf variants are licensed under the  
+🧾 **GNU Lesser General Public License v3.0 (LGPL-3.0)**  
+
+You are free to use, modify, and distribute under the terms of this license.  
+[Read full license →](https://www.gnu.org/licenses/lgpl-3.0.html)
