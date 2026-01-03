@@ -12,6 +12,8 @@ The **Darkelf Browser** ecosystem is a suite of privacy-focused macOS browsers e
 
 Each variant of Darkelf is designed around the principle of **native privacy** — combining minimal UI design, cryptographic integrity, and system-level control to deliver a truly secure browsing experience.
 
+Update: Mecha Comet Team might assist in updating, and enhancing Darkelf Shadow variant! Mecha Comet is looking into it!
+
 ---
 
 ## 🧩 Darkelf Variants
