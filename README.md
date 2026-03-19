@@ -65,7 +65,7 @@ Built entirely by **Dr. Kevin Moore**, Darkelf focuses on:
 
 # 🌑 Darkelf Shadow (Advanced Stealth Engine)
 
-**Darkelf Shadow** is the **stealth + anti-tracking powerhouse** — built with **Qt WebEngine (PySide6)** for cross-platform evolution.
+**Darkelf Shadow** is the **stealth + anti-tracking powerhouse** — built with **Qt WebEngine (PySide6)** for cross-platform evolution. Thank You Mecha Comet & Darkelf Devs for the assistance on Darkelf Shadow.
 
 ### 🕵️ Stealth Browsing Core
 
