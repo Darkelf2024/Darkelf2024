@@ -27,7 +27,6 @@ Built entirely by **Dr. Kevin Moore**, Darkelf focuses on:
 ### 🔐 Privacy by Design (Ephemeral Core)
 
 - 🧹 **Memory-only browsing (no disk writes)**
-- 🚫 **Downloads disabled by default**
 - ❌ No telemetry, analytics, or tracking
 - 🔄 Full session purge on exit
 
