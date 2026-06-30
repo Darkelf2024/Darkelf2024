@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 About the Darkelf Project
+## 🌐 About the Darkelf Project - Please See Darkelf Labs under Organization! Repos have transferred.
 
 The **Darkelf Browser Ecosystem** is a research-driven suite of **privacy-first browsers** engineered for macOS and beyond using **Python, Cocoa, WebKit, and Qt WebEngine**.  
 
