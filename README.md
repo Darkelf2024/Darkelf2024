@@ -1,175 +1,87 @@
-# 🕶️ Dr. Kevin Moore  
-**Creator & Lead Developer of the Darkelf Browser Project**  
-*Educator • Researcher • Developer*  
+# 🕶️ Dr. Kevin Moore
 
-> *"Code in shadows, browse in light — privacy begins with design."*  
+**Creator & Lead Developer of the Darkelf Project**  
+*Educator • Researcher • Software Developer*
 
----
-
-## 🌐 About the Darkelf Project - Please See Darkelf Labs under Organization! Repos have transferred.
-
-The **Darkelf Browser Ecosystem** is a research-driven suite of **privacy-first browsers** engineered for macOS and beyond using **Python, Cocoa, WebKit, and Qt WebEngine**.  
-
-Built entirely by **Dr. Kevin Moore**, Darkelf focuses on:
-
-- 🔒 **Ephemeral browsing (no persistent data)**
-- 🧠 **On-device AI threat detection**
-- 🕳️ **Tor + Onion privacy routing**
-- ⚡ **Native system-level control**
-- 🧬 **Future-ready cryptographic design**
+> *"Privacy begins with thoughtful design."*
 
 ---
 
-# 🧠 Core Flagship: Darkelf Cocoa
+# 👋 About Me
 
-**Darkelf Cocoa** is the **primary macOS-native browser** in the Darkelf ecosystem — built with **PyObjC + WebKit (WKWebView)** for deep system integration.
+I'm an educator and software developer with a passion for privacy, browser technologies, and open-source software.
 
-### 🔐 Privacy by Design (Ephemeral Core)
+I created the **Darkelf Project** to explore privacy-focused browser design, secure software architecture, and modern web technologies through practical, open-source development.
 
-- 🧹 **Memory-only browsing (no disk writes)**
-- ❌ No telemetry, analytics, or tracking
-- 🔄 Full session purge on exit
-
-### 🧠 Darkelf MiniAI (Built-in Threat Sentinel)
-
-- Real-time **network inspection engine**
-- Detects:
-  - Trackers & fingerprinting
-  - Intrusion attempts
-  - Credential stuffing & scraping
-  - Traffic anomalies
-- 🚨 **Auto Lockdown Mode** halts all activity on critical threats
-
-### 🧱 Isolation & Sandbox
-
-- First-Party Isolation (FPI)
-- Per-domain memory containers
-- Optional per-tab isolation
-- Secure WKWebView sandbox
-
-### 🌐 Network Security
-
-- Enforced HTTPS upgrades  
-- Tracker blocking via native rules + MiniAI  
-- SHA3-based request fingerprinting  
-
-### 🎨 Native macOS Experience
-
-- Full **Cocoa/AppKit UI**
-- Smooth animations & alerts
-- Integrated secure “Clear Data” dialogs
-- Minimal, distraction-free interface
+Today I continue to develop the Darkelf ecosystem while teaching English and pursuing research in cybersecurity, browser privacy, and software engineering.
 
 ---
 
-# 🌑 Darkelf Shadow (Advanced Stealth Engine)
+# 🧩 About Darkelf
 
-**Darkelf Shadow** is the **stealth + anti-tracking powerhouse** — built with **Qt WebEngine (PySide6)** for cross-platform evolution. Thank You Mecha Comet & Darkelf Devs for the assistance on Darkelf Shadow.
+The **Darkelf Project** is an open-source ecosystem of privacy-focused browsers, security software, developer tools, and technical documentation.
 
-### 🕵️ Stealth Browsing Core
+Projects are now maintained under the **Darkelf Labs** organization.
 
-- Disabled telemetry & background networking
-- WebRTC leak prevention
-- Hardened Chromium configuration
-
-### 🧠 Advanced Ad & Tracker Blocking
-
-- EasyList + uBlock filter engine
-- Request interception
-- Cosmetic filtering (DOM-level)
-
-### 🎯 Intelligent Request Control
-
-- HTTPS enforcement  
-- Tracking parameter stripping  
-- Third-party request control  
-
-### 🎥 YouTube Ad Neutralization
-
-- Removes video + overlay ads
-- Maintains playback compatibility
-
-### 🔐 Secure Downloads
-
-- Randomized filenames  
-- Isolated temp storage  
+➡️ **Please visit the Darkelf Labs organization for the latest repositories, releases, and documentation.**
 
 ---
 
-## 🧩 Additional Variants
+# 🚀 Current Focus
 
-### 🕳️ Darkelf RedSec Browser
-- Tor routing + SOCKS5  
-- .onion support  
-
-### 🔐 Darkelf Quantum *(In Development — Q2 2026)*
-
-- Quantum-safe encryption roadmap  
-- Cross-platform expansion  
+- 🍫 Developing **Darkelf Cocoa**
+- 🌑 Maintaining **Darkelf Shadow**
+- 📚 Expanding **Darkelf Docs**
+- 🔧 Improving browser privacy and usability
+- 🖥️ Native macOS development
 
 ---
 
-## ⚙️ Core Technology Stack
+# 🛠️ Technologies
 
-| Component | Technology |
-|----------|------------|
-| Language | Python 3 |
-| macOS UI | Cocoa / AppKit |
-| Cross-platform UI | Qt (PySide6) |
-| Web Engines | WebKit / Chromium |
-| Privacy Engine | Darkelf MiniAI |
-| Filtering | EasyList / Custom Rules |
-| Storage | Ephemeral |
-
----
-
-## 🔒 Security Philosophy
-
-> *“Privacy is not a feature — it is the foundation.”*
-
-- Zero persistence  
-- On-device intelligence  
-- Layered sandboxing  
-- Real-time threat response  
+- Python
+- PyObjC
+- Cocoa / AppKit
+- WebKit
+- PySide6
+- Qt WebEngine
+- HTML / CSS
+- Git & GitHub
 
 ---
 
-## 🎨 Design Philosophy
+# 🎓 Professional Interests
 
-> *"If privacy isn’t beautiful, it won’t be used."*
-
-- Native feel  
-- Zero clutter  
-- Transparent privacy controls  
-
----
-
-## 💡 Mission Statement
-
-> *“To restore privacy to the user — through transparency, simplicity, and open-source design.”*
+- Privacy Engineering
+- Browser Development
+- Secure Software Design
+- Open Source Development
+- macOS Native Applications
+- Cybersecurity Research
+- Software Architecture
 
 ---
 
-## 🧠 Developed & Maintained By
+# 🌐 Find My Projects
 
-**Dr. Kevin Moore**  
+🏢 **Darkelf Labs Organization**
 
-🌐 https://darkelfbrowser.com  
-💻 https://github.com/Darkelf2024  
-📧 kjm489@km-consultant.pro  
+https://github.com/Darkelf-Labs
+
+🌍 **Website**
+
+https://darkelfbrowser.com
+
+📚 **Documentation**
+
+https://github.com/Darkelf-Labs/Darkelf-Docs
 
 ---
 
-## ⚖️ License
+# 💬 Philosophy
 
-GNU LGPL v3.0  
-https://www.gnu.org/licenses/lgpl-3.0.html  
+> *"Good software should protect users by design—not by default settings."*
 
 ---
 
-## 🚀 Future Direction
-
-- Shadow + Cocoa convergence  
-- Expanded MiniAI  
-- Quantum-safe networking  
-- Linux support  
+## Thanks for visiting!
