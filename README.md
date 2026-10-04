@@ -59,7 +59,7 @@ Projects are now maintained under the **Darkelf Labs** organization.
 - macOS Native Applications
 - Cybersecurity Research
 - Software Architecture
-
+  
 ---
 
 # 🌐 Find My Projects
@@ -75,6 +75,14 @@ https://darkelfbrowser.com
 📚 **Documentation**
 
 https://github.com/Darkelf-Labs/Darkelf-Docs
+
+👤 **Personal Profile**
+
+https://km-consultant.pro
+
+📧 **Email**
+
+[kjm489@km-consultant.pro](mailto:kjm489@km-consultant.pro)
 
 ---
 
